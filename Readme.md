@@ -10,7 +10,7 @@ Wombat has intercepted a mysterious transmission from a satellite, but the messa
 
 Instructions:
 
-1. Download the zip file.
+1. Download the `satellite_intercept.zip` file.
 2. Solve the challenge.
 
 `Hint: The hidden message might require some manipulation or decoding to become readable. Good luck!`
